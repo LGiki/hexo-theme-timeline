@@ -1,0 +1,17 @@
+# Information about website
+description: "test"
+keywords: "test"
+authors: "test"
+favicon:
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+# Direction of static files
+css: css
+js: js
+images: images
+# Data format
+full_data_format: YYYY-MM-DD HH:mm
+time_format: HH:mm
+data_format: YYYY-MM-DD
