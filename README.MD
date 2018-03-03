@@ -2,7 +2,7 @@
 
 A simple hexo theme just for generating a timeline page.
 
-​For my love:black_heart:.
+​F​o​r​ ​m​y love​.
 
 # Thanks
 
