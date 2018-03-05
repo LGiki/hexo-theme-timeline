@@ -1,11 +1,11 @@
 # Information about website
-description: "test"
-keywords: "test"
-authors: "test"
+description: "Your description here"
+keywords: "Your keywords here"
+authors: "Your name here"
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
+  small: /images/favicon-16x16.png
+  medium: /images/favicon-32x32.png
+  apple_touch_icon: /images/apple-touch-icon.png
   safari_pinned_tab: /images/logo.svg
 # Direction of static files
 css: css
